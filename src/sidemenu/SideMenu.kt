@@ -1,6 +1,5 @@
 package sidemenu
 
-import bergers.BurgersMenu
 import main.cart
 
 class SideMenu(override val name: String, override val price: Int, override val description: String) : SideMenuList(name, price, description) {

@@ -7,8 +7,6 @@ import drinks.DrinksMenu
 import menu.Menu
 import sidemenu.SideMenuList
 
-import java.lang.IllegalArgumentException
-
 
 var cart = ArrayList<Menu>()
 

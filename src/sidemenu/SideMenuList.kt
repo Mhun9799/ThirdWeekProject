@@ -1,6 +1,5 @@
 package sidemenu
 
-import drinks.Drink
 import menu.Menu
 
 open class SideMenuList(override val name: String, override val price: Int, override val description: String) : Menu() {

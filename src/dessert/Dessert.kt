@@ -1,6 +1,5 @@
 package dessert
 
-import bergers.BurgersMenu
 import main.cart
 
 class Dessert(override val name: String, override val price: Int, override val description: String) : DessertsMenu(name, price, description) {
